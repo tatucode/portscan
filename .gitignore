@@ -1,4 +1,5 @@
 __pycache__
 venv
 readme.md
-requirements.txt
+.vscode
+.pytest_cache

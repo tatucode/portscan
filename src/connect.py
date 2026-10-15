@@ -14,4 +14,3 @@ def tryConnection(port, target_ip):
         if result == 0:
             print(f"[green]Port {p} - Open[/]")
         connection.close()    # Essa função é usada para encerrar a conexão e finalizar o processo
-
